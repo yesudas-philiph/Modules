@@ -176,4 +176,7 @@ output "subnet_private1_id" {
   value = aws_subnet.private1.id
 }
 
+output "security_group_id" {
+  value = aws_security_group.lb-sec-grp.id
+}
 
