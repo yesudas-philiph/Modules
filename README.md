@@ -1,5 +1,6 @@
 # Terraform-Modules
 ##### Creating custom modules in terraform
+![GitHub language count](https://img.shields.io/github/languages/count/yesudas-philiph/Terraform-Modules)  ![GitHub top language](https://img.shields.io/github/languages/top/yesudas-philiph/Terraform-Modules)
 
 A module is a container for multiple resources that are used together. Modules can be used to create lightweight abstractions, so that you can describe your infrastructure in terms of its architecture, rather than directly in terms of physical objects.
 
